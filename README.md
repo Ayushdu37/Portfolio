@@ -138,9 +138,9 @@ npm run preview   # Preview production build
 <h2>🗺️ Roadmap</h2>
 <ul>
   <li>Add Projects data from GitHub</li>
-  <li>Dark/Light theme toggle</li>
+  <!-- <li>Dark/Light theme toggle</li> -->
   <li>Contact form with email service</li>
-  <li>(Optional) 3D hero/scene</li>
+  <!-- <li>(Optional) 3D hero/scene</li> -->
 </ul>
 
 <!-- CONTRIBUTING -->
