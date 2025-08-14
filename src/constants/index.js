@@ -170,27 +170,27 @@ import {
   const testimonials = [
     {
       testimonial:
-        "Tao Làm được",
-      name: "Quang",
+        "This portfolio is sleek, fast, and beautifully designed — truly impressive!",
+      name: "Shrey Garg",
       designation: "BE Developer",
-      company: "pencil",
-      image: "https://randomuser.me/api/portraits/women/4.jpg",
+      company: "Green Stride",
+      // image: "https://randomuser.me/api/portraits/women/4.jpg",
     },
     {
       testimonial:
-        "Tin chuẩn chưa anh",
-      name: "Phúc",
+        "Perfect blend of creativity and technical skill — highly recommended.",
+      name: "Pratham Sharma",
       designation: "FE Developer",
       company: "minecraft",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
+      // image: "https://randomuser.me/api/portraits/men/5.jpg",
     },
     {
       testimonial:
-        "Tui nấu được",
-      name: "Khang",
+        "Smooth animations, responsive design, and a professional feel all around.",
+      name: "Yash Joshi",
       designation: "Fullstack Developer",
       company: "Self Employed",
-      image: "https://randomuser.me/api/portraits/men/6.jpg",
+      // image: "https://randomuser.me/api/portraits/men/6.jpg",
     },
   ];
   
