@@ -28,6 +28,7 @@ import tesla from "./company/tesla.png";
 
 import bomberman from "./bomberman.png";
 import flappy from "./flappy.png";
+import sms from "./sms.png";
 import HPDBMS from "./HPDBMS.png";
 import algorithms from "./algorithms.png";
 
@@ -61,4 +62,5 @@ export {
   HPDBMS,
   algorithms,
   flappy,
+  sms,
 };

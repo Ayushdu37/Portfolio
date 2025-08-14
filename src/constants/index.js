@@ -20,10 +20,11 @@ import {
     tesla,
     shopify,
     // bomberman,
-    HPDBMS,
+    // HPDBMS,
     algorithms,
     threejs,
     flappy,
+    sms,
   } from "../assets";
   
   export const navLinks = [
@@ -212,9 +213,9 @@ import {
       source_code_link: "https://github.com/Ayushdu37/Flappy-Bird",
     },
     {
-      name: "Hospitals DBMS",
+      name: "School Management System",
       description:
-        "Web application that allows users to book appointments with doctors, and allows doctors to manage their patients.",
+        "School Management System for DPS with role-based dashboards to track attendance, academics, and administration.",
       tags: [
         {
           name: "react",
@@ -229,8 +230,8 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: HPDBMS,
-      source_code_link: "https://github.com/tpSpace/Hospital-DBMS",
+      image: sms,
+      source_code_link: "https://github.com/Ayushdu37/School_Management_System",
     },
     {
       name: "Algorithms Visualizer",
@@ -251,7 +252,7 @@ import {
         },
       ],
       image: algorithms,
-      source_code_link: "https://github.com/tpSpace/Algorithms-Visualizer",
+      source_code_link: "https://ayush-algo-vis.netlify.app/",
     },
   ];
   
