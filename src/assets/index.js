@@ -30,6 +30,7 @@ import bomberman from "./bomberman.png";
 import flappy from "./flappy.png";
 import sms from "./sms.png";
 import HPDBMS from "./HPDBMS.png";
+import jobhook from "./jobhook.png"
 import algorithms from "./algorithms.png";
 
 export {
@@ -63,4 +64,5 @@ export {
   algorithms,
   flappy,
   sms,
+  jobhook
 };

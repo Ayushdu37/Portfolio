@@ -25,6 +25,7 @@ import {
     threejs,
     flappy,
     sms,
+    jobhook,
   } from "../assets";
   
   export const navLinks = [
@@ -196,21 +197,25 @@ import {
   
   const projects = [
     {
-      name: "Flappy Bird",
+      name: "JobHook",
       description:
-        "A Java swing game that is inspired by the classic FLappy Bird game.",
+        "A Job Portal System to efficiently manage job applications, recruiter postings, and user profiles. Includes role-based dashboards for job seekers, recruiters, and admins to handle job listings, applications, and profile management.",
       tags: [
         {
-          name: "Java",
+          name: "typescript",
           color: "blue-text-gradient",
         },
         {
-          name: "Java-Swing",
+          name: "html",
           color: "green-text-gradient",
         },
+        {
+          name: "css",
+          color: "pink-text-gradient",
+        },
       ],
-      image: flappy,
-      source_code_link: "https://github.com/Ayushdu37/Flappy-Bird",
+      image: jobhook,
+      source_code_link: "https://jobhook-frontend.onrender.com",
     },
     {
       name: "School Management System",
@@ -254,6 +259,25 @@ import {
       image: algorithms,
       source_code_link: "https://ayush-algo-vis.netlify.app/",
     },
+    {
+      name: "Flappy Bird",
+      description:
+        "A Java swing game that is inspired by the classic FLappy Bird game.",
+      tags: [
+        {
+          name: "Java",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Java-Swing",
+          color: "green-text-gradient",
+        },
+      ],
+      image: flappy,
+      source_code_link: "https://github.com/Ayushdu37/Flappy-Bird",
+    },
+    
+    
   ];
   
   export { services, technologies, experiences, testimonials, projects };
