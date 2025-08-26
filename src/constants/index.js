@@ -172,9 +172,9 @@ import {
     {
       testimonial:
         "This portfolio is sleek, fast, and beautifully designed — truly impressive!",
-      name: "Shrey Garg",
+      name: "Nandini Pal",
       designation: "Fullstack Developer",
-      company: "Green Stride",
+      company: "Amazon",
       // image: "https://randomuser.me/api/portraits/women/4.jpg",
     },
     {

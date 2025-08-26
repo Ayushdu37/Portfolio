@@ -1,3 +1,4 @@
+import portfolio from "./portfolio.png";
 import logo from "./logo.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
@@ -60,6 +61,7 @@ export {
   starbucks,
   tesla,
   bomberman,
+  portfolio,
   HPDBMS,
   algorithms,
   flappy,
