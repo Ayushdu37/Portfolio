@@ -217,27 +217,27 @@ import {
       image: jobhook,
       source_code_link: "https://jobhook-frontend.onrender.com",
     },
-    {
-      name: "School Management System",
-      description:
-        "School Management System for DPS with role-based dashboards to track attendance, academics, and administration.",
-      tags: [
-        {
-          name: "react",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "restapi",
-          color: "green-text-gradient",
-        },
-        {
-          name: "bootstrap",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: sms,
-      source_code_link: "https://github.com/Ayushdu37/School_Management_System",
-    },
+    // {
+    //   name: "School Management System",
+    //   description:
+    //     "School Management System for DPS with role-based dashboards to track attendance, academics, and administration.",
+    //   tags: [
+    //     {
+    //       name: "react",
+    //       color: "blue-text-gradient",
+    //     },
+    //     {
+    //       name: "restapi",
+    //       color: "green-text-gradient",
+    //     },
+    //     {
+    //       name: "bootstrap",
+    //       color: "pink-text-gradient",
+    //     },
+    //   ],
+    //   image: sms,
+    //   source_code_link: "https://github.com/Ayushdu37/School_Management_System",
+    // },
     {
       name: "Algorithms Visualizer",
       description:
