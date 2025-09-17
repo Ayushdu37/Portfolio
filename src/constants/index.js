@@ -24,7 +24,7 @@ import {
     algorithms,
     threejs,
     flappy,
-    sms,
+    // sms,
     jobhook,
   } from "../assets";
   
